@@ -20,25 +20,16 @@
 
 ## 👨‍💻 About Me
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="65%" valign="top">
+<img align="right" width="320" valign="middle" src="/assets/developer-illustration.gif" alt="Coding"/>
 
-I'm a **Full-Stack Web Developer** who enjoys transforming complex problems into practical, user-friendly software solutions. I like building web applications, developing intuitive interfaces, and exploring how AI and machine learning can address real-world challenges.
+I'm a **Full-Stack Web Developer** passionate about building practical, user-friendly applications and turning ideas into effective software solutions. I also enjoy exploring AI and machine learning to solve real-world problems.
 
-- 🎯 **Currently Building:** Practical web applications and AI-assisted software projects.
-- 🌱 **Learning:** Modern full-stack development, backend architecture, and AI application development.
-- 💡 **Passionate About:** Clean user experiences, useful products, and solving problems through technology.
-- ⚡ **Fun Fact:** I enjoy turning ideas and UI designs into functional web experiences.
+- 🎯 **Current Focus:** Building web applications and AI-powered solutions.
+- 🌱 **Exploring:** Backend architecture, modern web technologies, and AI development.
+- 💡 **Interests:** Clean UI, better user experiences, and problem-solving through technology.
+- ⚡ **Fun Fact:** I love turning creative ideas into functional web experiences.
 
-**Technical Philosophy:** *Write clean, maintainable code that solves real problems.*
-
-</td>
-<td width="35%" align="right" valign="middle">
-  <img src="./assets/developer-illustration.gif" width="320" alt="Developer illustration" />
-</td>
-</tr>
-</table>
+**My Approach:** *Writing clean, maintainable code to build meaningful solutions.*
 
 ---
 
