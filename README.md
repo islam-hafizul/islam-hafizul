@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="65%" valign="top">
 
