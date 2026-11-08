@@ -44,7 +44,7 @@ I'm a **Full-Stack Web Developer** passionate about building practical, user-fri
 ### 🎨 Frontend Development
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind&theme=dark" alt="Frontend technologies" />
-
+<br>
 <img src="https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white" alt="Livewire" />
 
 </td>
@@ -53,7 +53,7 @@ I'm a **Full-Stack Web Developer** passionate about building practical, user-fri
 ### ⚙️ Backend Development
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,flask&theme=dark" alt="Backend technologies" />
-
+<br>
 <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
 <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square" alt="REST APIs" />
 
@@ -65,7 +65,7 @@ I'm a **Full-Stack Web Developer** passionate about building practical, user-fri
 ### 🗄️ Databases & Developer Tools
 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,linux&theme=dark" alt="Databases and development tools" />
-
+<br>
 <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
 
 </td>
@@ -74,7 +74,7 @@ I'm a **Full-Stack Web Developer** passionate about building practical, user-fri
 ### 🤖 AI & Automation
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" alt="AI and machine learning" />
-
+<br>
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
